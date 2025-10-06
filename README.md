@@ -47,11 +47,11 @@ df1=data[data["cluster"]==1]
 df2=data[data["cluster"]==2]
 df3=data[data["cluster"]==3]
 df4=data[data["cluster"]==4]
-plt.scatter(df0["Annual Income"],df0["Score"],c="red",label="cluster0")
-plt.scatter(df1["Annual Income"],df1["Score"],c="black",label="cluster1")
-plt.scatter(df2["Annual Income"],df2["Score"],c="blue",label="cluster2")
-plt.scatter(df3["Annual Income"],df3["Score"],c="green",label="cluster3")
-plt.scatter(df4["Annual Income"],df4["Score"],c="red",label="cluster4")
+plt.scatter(df0["Annual Income (k$)"],df0["Score"],c="red",label="cluster0")
+plt.scatter(df1["Annual Income (k$)"],df1["Score"],c="black",label="cluster1")
+plt.scatter(df2["Annual Income (k$)"],df2["Score"],c="blue",label="cluster2")
+plt.scatter(df3["Annual Income (k$)"],df3["Score"],c="green",label="cluster3")
+plt.scatter(df4["Annual Income (k$)"],df4["Score"],c="red",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
 ```
