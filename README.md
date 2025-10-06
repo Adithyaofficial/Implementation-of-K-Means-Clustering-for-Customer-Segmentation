@@ -64,12 +64,12 @@ plt.title("Customer Segments")
 
 ### DATA.INFO()
 
-![image](https://user-images.githubusercontent.com/94154683/172996266-c938bc5f-3d84-423f-a511-eb1b4ec2a8ec.png)
+<img width="762" height="319" alt="image" src="https://github.com/user-attachments/assets/ef407772-732c-4a93-a3f9-e2a22eba3e0a" />
 
+<img width="1126" height="719" alt="image" src="https://github.com/user-attachments/assets/a599c7c2-a86a-497d-b4ad-b0c671293712" />
 
-![image](https://user-images.githubusercontent.com/94154683/172996301-7606d4bb-02a1-4a94-a376-67f5266c16bd.png)
+<img width="1025" height="578" alt="image" src="https://github.com/user-attachments/assets/d6c3d580-1ef8-4543-bea9-42511db68223" />
 
-![image](https://user-images.githubusercontent.com/94154683/172996315-b8213033-a0de-4c94-b5f7-76c903ce886b.png)
 
 
 
